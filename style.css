@@ -1,0 +1,40 @@
+nav {
+    background-image: linear-gradient(to right, #274046, #E6DADA);
+    display: inline-block;
+    width: 100%;
+    border-radius: 20px;
+    height: 7vh;
+}
+
+.nav-link {
+    display: inline-block;
+    text-decoration: none;
+    font-size: 25px;
+    padding: 2.5%;
+    height: 20%;
+    color: bisque;
+    margin-top: -5vh;
+    padding-top: -2vh;
+}
+
+#para-right {
+    width: 28%;
+    text-align: center;
+    display: inline-block;
+    margin-left: 30%;
+    color: white;
+    font-weight: bold;
+}
+
+#nav-img {
+    display: block;
+}
+
+#myVideo {
+    position: absolute;
+    right: 0;
+    bottom: 0;
+    min-width: 100%;
+    min-height: 500px;
+    z-index: -1;
+}
